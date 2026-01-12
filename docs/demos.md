@@ -202,12 +202,12 @@ blog:
     repo: https://github.com/XingJi-love/XingJi-blog-plume
     preview: https://i.p-i.vip/47/20250407-67f3f1eca1983.png
   -
-    name: Paiad
+    name: 𝑷𝒂𝒊𝒂𝒅
     desc: 种一棵树最好的时间是十年前，其次是现在。
-    logo: https://paiad-blog.vercel.app/sunflower.png
-    url: https://paiad-blog.vercel.app
+    logo: https://blog.paiad.top/sunflower.png
+    url: https://blog.paiad.top
     repo: https://github.com/paiad
-    preview: https://paiad-blog.vercel.app/paiad-blog.png
+    preview: https://blog.paiad.top/paiad-blog.png
   -
     name: 𝙁𝙡𝙖𝙨𝙝
     desc: 坚持热爱，奔赴山海
